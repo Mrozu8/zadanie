@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df589096-34b3-4e2c-936d-ea6a14ce999c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Helpers/system.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AuthController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/MovieController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/MovieController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="df589096-34b3-4e2c-936d-ea6a14ce999c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,25 +22,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AuthController.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1817">
               <caret line="79" column="37" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
               <folding>
                 <element signature="e#40#68#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="48" column="7" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
-              <folding>
-                <element signature="e#45#81#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -217,87 +187,6 @@
               <item name="php-08-2020" type="b2602c69:ProjectViewProjectNode" />
               <item name="php-08-2020" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="php-08-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-08-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-08-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-08-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Helpers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-08-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-08-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-08-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-08-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-08-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-08-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="Auth" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-08-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-08-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="External" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-08-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-08-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="External" type="462c0819:PsiDirectoryNode" />
-              <item name="Bar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-08-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-08-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="External" type="462c0819:PsiDirectoryNode" />
-              <item name="Bar" type="462c0819:PsiDirectoryNode" />
-              <item name="Movies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-08-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-08-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="External" type="462c0819:PsiDirectoryNode" />
-              <item name="Baz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-08-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-08-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="External" type="462c0819:PsiDirectoryNode" />
-              <item name="Baz" type="462c0819:PsiDirectoryNode" />
-              <item name="Movies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-08-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-08-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="External" type="462c0819:PsiDirectoryNode" />
-              <item name="Foo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-08-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-08-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="External" type="462c0819:PsiDirectoryNode" />
-              <item name="Foo" type="462c0819:PsiDirectoryNode" />
-              <item name="Movies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="php-08-2020" type="b2602c69:ProjectViewProjectNode" />
-              <item name="php-08-2020" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -341,25 +230,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600945681697</updated>
-      <workItem from="1600945683323" duration="11213000" />
+      <workItem from="1600945683323" duration="11470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11213000" />
+    <option name="totallyTimeSpent" value="11470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32987553" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32987553" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -583,22 +471,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AuthController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1817">
-          <caret line="79" column="37" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
-          <folding>
-            <element signature="e#40#68#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="48" column="7" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
           <folding>
             <element signature="e#45#81#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1817">
+          <caret line="79" column="37" selection-start-line="79" selection-start-column="37" selection-end-line="79" selection-end-column="37" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
